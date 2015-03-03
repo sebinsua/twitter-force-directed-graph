@@ -24,6 +24,7 @@ This is how I would like to augment it:
 - [ ] It should fetch data relating to the location of a Twitter account.
 - [ ] It should colour a node depending on whether it has the same location as the main account.
 - [ ] It should draw edges differently depending on their directionality.
+- [ ] It should be able to output a list of usernames belonging to the location of the Twitter account.
 
 ### VERSION 3
 
@@ -43,7 +44,7 @@ lein ring server-headless
 
 ## License
 
-Copyright © 2015 William Fleming
+Copyright © 2015 William Fleming, Seb Insua
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
